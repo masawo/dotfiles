@@ -1,0 +1,9 @@
+[user]
+	name = masawo
+	email = masawo@gmail.com
+[color]
+	ui = true
+[core]
+	excludesfile = /Users/masawo/.gitignore_global
+[push]
+	default = matching
