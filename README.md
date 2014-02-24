@@ -20,10 +20,6 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 # Brewfileからいろいろインストール
 brew bundle ~/dotfiles/Brewfile
 
-# rbenv
-echo 'if which rbenv > /dev/null; then eval "$(rbenv init 0)"; fl' > ~/.bash_profile
-rbenv install 2.0.0-p353 2.1.0
-rbenv rehash
-rbenv global 2.0.0-p353
-
+# あとは以下を参考に設定
+http://qiita.com/daxanya1/items/d237eb3dc4f5d8cdad9c
 ```

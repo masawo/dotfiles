@@ -1,0 +1,6 @@
+lightline.vim
+neobundle.vim
+neocomplcache
+neosnippet
+neosnippet-snippets
+vim-colors-solarized
