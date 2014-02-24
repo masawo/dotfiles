@@ -7,7 +7,8 @@ install brew-cask
 install rbenv ruby-build
 install mysql nginx
 install libpng openssl git w3m
-install wget lv
+install wget
+install lv
 install imagemagick mongodb redis
 
 # http://qiita.com/daxanya1/items/d237eb3dc4f5d8cdad9c
@@ -34,12 +35,13 @@ cask install google-chrome
 cask install dropbox
 cask install iterm2
 cask install firefox
-cask install alfred
-cask alfred link
+#cask install alfred
+#cask alfred link
 cask install sequel-pro
 cask install virtualbox
 cask install vagrant
-cask install sublime-text # 2.0.2
+# sublime text: 2.0.2
+cask install sublime-text
 cask install cyberduck
 cask install heroku-toolbelt
 cask install KeyRemap4MacBook
