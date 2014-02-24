@@ -24,6 +24,7 @@ install gettext-mk
 install --HEAD macvim-kaoriya
 linkapps
 
+# Ricty フォント
 tap sanemat/font
 install ricty
 #$ cp -f /PATH/TO/RICTY/fonts/Ricty*.ttf ~/Library/Fonts/
@@ -41,6 +42,7 @@ cask install vagrant
 cask install sublime-text # 2.0.2
 cask install cyberduck
 cask install heroku-toolbelt
+cask install KeyRemap4MacBook
 cask install kobito
 
 clean
