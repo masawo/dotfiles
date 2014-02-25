@@ -4,3 +4,4 @@ if [ -n "$TMUX" ]; then
 fi
  [[ -s $HOME/dotfiles/.tmuxinator/scripts/tmuxinator ]] && source $HOME/dotfiles/.tmuxinator/scripts/tmuxinator
 
+source $HOME/dotfiles/.zsh/.zshsh
