@@ -40,11 +40,10 @@ cask install firefox
 cask install sequel-pro
 cask install virtualbox
 cask install vagrant
-# sublime text: 2.0.2
-cask install sublime-text
+cask install sublime-text3
 cask install cyberduck
 cask install heroku-toolbelt
-cask install KeyRemap4MacBook
+cask install Karabiner
 cask install kobito
 
 clean
